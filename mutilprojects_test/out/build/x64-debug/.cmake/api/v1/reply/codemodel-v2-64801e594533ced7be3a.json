@@ -1,0 +1,119 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"childIndexes" : 
+					[
+						1,
+						2
+					],
+					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.8"
+					},
+					"projectIndex" : 0,
+					"source" : "."
+				},
+				{
+					"build" : "project_2",
+					"jsonFile" : "directory-project_2-Debug-7d81a6cb852865a2bc99.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.8"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "project_2",
+					"targetIndexes" : 
+					[
+						2,
+						3
+					]
+				},
+				{
+					"build" : "project_1",
+					"jsonFile" : "directory-project_1-Debug-5f1b2237b0b92d5fb3dd.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.8"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "project_1",
+					"targetIndexes" : 
+					[
+						0,
+						1
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0,
+						1,
+						2
+					],
+					"name" : "mutilprojects_test",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 2,
+					"id" : "project_1::@a2be16485837fa8a8987",
+					"jsonFile" : "target-project_1-Debug-582f885e57924996bc29.json",
+					"name" : "project_1",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 2,
+					"id" : "project_1_test::@a2be16485837fa8a8987",
+					"jsonFile" : "target-project_1_test-Debug-b809786bf14048dd0f54.json",
+					"name" : "project_1_test",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "project_2::@76404331a789c0fb7e2b",
+					"jsonFile" : "target-project_2-Debug-8f0e600119159ff4be64.json",
+					"name" : "project_2",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "project_2_test::@76404331a789c0fb7e2b",
+					"jsonFile" : "target-project_2_test-Debug-1b0694ecda6ca081d3a7.json",
+					"name" : "project_2_test",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "D:/Code/mutilprojects_test/out/build/x64-debug",
+		"source" : "D:/Code/mutilprojects_test"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 4
+	}
+}

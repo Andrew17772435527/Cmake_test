@@ -1,0 +1,10 @@
+D:/Code/mutilprojects_test/out/build/x64-debug/CMakeFiles/edit_cache.dir
+D:/Code/mutilprojects_test/out/build/x64-debug/CMakeFiles/rebuild_cache.dir
+D:/Code/mutilprojects_test/out/build/x64-debug/project_2/CMakeFiles/project_2.dir
+D:/Code/mutilprojects_test/out/build/x64-debug/project_2/CMakeFiles/project_2_test.dir
+D:/Code/mutilprojects_test/out/build/x64-debug/project_2/CMakeFiles/edit_cache.dir
+D:/Code/mutilprojects_test/out/build/x64-debug/project_2/CMakeFiles/rebuild_cache.dir
+D:/Code/mutilprojects_test/out/build/x64-debug/project_1/CMakeFiles/project_1.dir
+D:/Code/mutilprojects_test/out/build/x64-debug/project_1/CMakeFiles/project_1_test.dir
+D:/Code/mutilprojects_test/out/build/x64-debug/project_1/CMakeFiles/edit_cache.dir
+D:/Code/mutilprojects_test/out/build/x64-debug/project_1/CMakeFiles/rebuild_cache.dir

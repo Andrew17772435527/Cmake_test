@@ -1,0 +1,5 @@
+# ninja log v5
+1	232	7052339985369013	project_2/CMakeFiles/project_2_test.dir/src/project_2.c.obj	b4f25df09e7f8939
+234	1001	7052339992948992	project_2/project_2_test.exe	72334400e78e1cb4
+2	335	7053133633748463	project_1/CMakeFiles/project_1_test.dir/project_1.cpp.obj	b301e8527515e431
+336	2847	7053133647128784	project_1/project_1_test.exe	6b4d85b874935b57
